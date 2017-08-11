@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello.
+
+My name is Ted and I really enjoy a good sandwich.
